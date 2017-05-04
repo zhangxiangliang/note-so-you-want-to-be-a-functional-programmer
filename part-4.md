@@ -1,4 +1,4 @@
-# Part four
+# Part Four
 
 ## Currying
 * A Curried Function is a function that only takes a single parameter at a time.
